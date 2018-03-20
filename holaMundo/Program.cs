@@ -14,6 +14,10 @@ namespace holaMundo
             System.Console.WriteLine("hola mundo");
 
             Console.ReadKey();
+            
+            System.Console.WriteLine("seguimos vivos");
+
+            Console.ReadKey();
         }
     }
 }

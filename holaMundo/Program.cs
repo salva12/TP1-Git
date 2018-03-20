@@ -10,6 +10,10 @@ namespace holaMundo
     {
         static void Main(string[] args)
         {
+
+            System.Console.WriteLine("hola mundo");
+
+            Console.ReadKey();
         }
     }
 }

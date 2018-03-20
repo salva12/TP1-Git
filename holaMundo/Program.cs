@@ -17,7 +17,9 @@ namespace holaMundo
             
             System.Console.WriteLine("seguimos vivos");
 
-            //Console.ReadKey();
+            Console.ReadKey();
+
+            Console.ReadKey();
         }
     }
 }

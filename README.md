@@ -16,3 +16,6 @@ git push -u origin master
 git remote add origin https://github.com/FRRe-DACS/TP1-Git.git
 git push -u origin master
 ```
+Dudas acerca de fork y pull request ver enlace
+
+http://aprendegit.com/que-es-un-pull-request/

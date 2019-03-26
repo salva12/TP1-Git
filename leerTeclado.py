@@ -1,6 +1,3 @@
-
-import msvcrt
-print("Presione una tecla para continuar...")
-tx=input("ingrese texto")
-print(tx)
-msvcrt.getch()
+import msvcrt as m
+def wait():
+    m.getch()

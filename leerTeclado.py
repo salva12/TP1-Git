@@ -1,3 +1,1 @@
-import msvcrt as m
-def wait():
-    m.getch()
+key = input("Presione cualquier tecla o Enter para continuar")
